@@ -1,16 +1,28 @@
-# todo_list_v2
 
-Projeto em Flutter da lista de tarefas, versão 2 - com null-safety
+# To Do List - Flutter
 
-## Getting Started
+Aplicativo de lista de tarefas desenvolvido em Flutter com o Dart na versão acima de 2.x, em outras palavras, com Null-Safety.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Live Demo](https://youtu.be/VGBBBk4agpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Authors
+
+- [@Alexz96](https://github.com/Alexz96)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Acknowledgements
+
+ - [Startto.dev](https://www.startto.dev/)
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
