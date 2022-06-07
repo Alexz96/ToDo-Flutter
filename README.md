@@ -6,7 +6,7 @@ Aplicativo de lista de tarefas desenvolvido em Flutter com o Dart na versão aci
 
 ## Demo
 
-![Live Demo](https://youtu.be/VGBBBk4agpg)
+![Live Demo](https://github.com/Alexz96/ToDo-Flutter/blob/master/assets/ToDo%20List%20Flutter.mp4)
 
 
 ## Authors
